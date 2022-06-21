@@ -1,5 +1,4 @@
 # Desafio Técnico A3DATA
-========================
 
 Este repositório contém o desfio técnico desenlvolvido para a vaga de Cientista de Dados da A3DATA, contendo um Jupyter Notebook onde é feito o desenvolvimento de uma análise exploratória do conjunto de dados de Ocorrências Aeronáuticas na Aviação Civil Brasileira da CENIPA (Centro de Investigação e Prevenção de Acidentes Aeronáuticos).
 
