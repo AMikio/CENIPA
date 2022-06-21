@@ -1,0 +1,4 @@
+name: A3DATA
+channels:
+  - defaults
+prefix: /home/mikio/.anaconda3/envs/A3DATA
